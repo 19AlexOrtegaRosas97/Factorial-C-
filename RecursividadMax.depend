@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541971745 source:c:\users\alex\desktop\6to\tolerante fallos\actividades\factorialc++\recursividadmax\main.cpp
+	<iostream>
+	"funciones.h"
+	<windows.h>
+
+1541971980 c:\users\alex\desktop\6to\tolerante fallos\actividades\factorialc++\recursividadmax\funciones.h
+	<iostream>
+
+1541974296 source:c:\users\alex\desktop\6to\tolerante fallos\actividades\recursividadmax\main.cpp
+	<iostream>
+	"funciones.h"
+	<windows.h>
+
+1541972096 c:\users\alex\desktop\6to\tolerante fallos\actividades\recursividadmax\funciones.h
+	<iostream>
+
